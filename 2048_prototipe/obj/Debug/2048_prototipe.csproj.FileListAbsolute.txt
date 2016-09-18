@@ -1,0 +1,11 @@
+c:\users\pc\documents\visual studio 2013\Projects\2048_prototipe\2048_prototipe\bin\Debug\2048_prototipe.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\2048_prototipe\2048_prototipe\bin\Debug\2048_prototipe.exe
+c:\users\pc\documents\visual studio 2013\Projects\2048_prototipe\2048_prototipe\bin\Debug\2048_prototipe.pdb
+c:\users\pc\documents\visual studio 2013\Projects\2048_prototipe\2048_prototipe\obj\Debug\_2048_prototipe.Form1.resources
+c:\users\pc\documents\visual studio 2013\Projects\2048_prototipe\2048_prototipe\obj\Debug\_2048_prototipe.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2013\Projects\2048_prototipe\2048_prototipe\obj\Debug\2048_prototipe.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2013\Projects\2048_prototipe\2048_prototipe\obj\Debug\2048_prototipe.exe
+c:\users\pc\documents\visual studio 2013\Projects\2048_prototipe\2048_prototipe\obj\Debug\2048_prototipe.pdb
+C:\Users\pc\Documents\Visual Studio 2013\Projects\2048_prototipe\2048_prototipe\bin\Debug\2048_prototipe.exe.CodeAnalysisLog.xml
+C:\Users\pc\Documents\Visual Studio 2013\Projects\2048_prototipe\2048_prototipe\bin\Debug\2048_prototipe.exe.lastcodeanalysissucceeded
+C:\Users\pc\Documents\Visual Studio 2013\Projects\2048_prototipe\2048_prototipe\obj\Debug\2048_prototipe.csprojResolveAssemblyReference.cache
